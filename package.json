@@ -1,0 +1,12 @@
+{
+  "name": "vercel-redirect-project",
+  "version": "1.0.0",
+  "description": "A simple redirect function for Adsterra using Vercel",
+  "main": "api/redirect.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel start"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
